@@ -1,0 +1,28 @@
+{
+  "name": "koishi-plugin-qqgroup-manager",
+  "description": "qq群聊管理",
+  "version": "1.0.0",
+  "repository": "https://github.com/medicago087/koishi-plugin-qqgroup-manager.git",
+  "author": "medicago <medicago087@gmail.com>",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "koishi": {
+    "description": {
+      "zh": "qq群聊管理工具组"
+    }
+  },
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.4"
+  }
+}
