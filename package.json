@@ -14,7 +14,7 @@
   "scripts": {},
   "koishi": {
     "description": {
-      "zh": "qq群聊管理工具组"
+      "zh": "qq群聊管理工具组，包含禁言、自闭、修改名片头衔、撤回、精华消息等一条龙功能~"
     }
   },
   "keywords": [
